@@ -2,4 +2,4 @@
 
 ## Requirement Gathering
 
-[functional_requirement image](/public/fn_req.png)
+<img src="/public/fn_req.png"></img>
